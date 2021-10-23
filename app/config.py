@@ -12,4 +12,4 @@ class Config:
     DB_PASS = os.environ.get('db_pass')
     DB_DB = os.environ.get('db_db')
     DB_PATH = os.environ.get('db_path')
-    WEB_PATH = '3.65.38.102:5000'
+    WEB_PATH = 'http://3.65.38.102:5000'
